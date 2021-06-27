@@ -1,0 +1,135 @@
+D:\Lập trình mạng căn bản\remoteDesktopp\client\bin\Debug\client.exe.config
+D:\Lập trình mạng căn bản\remoteDesktopp\client\bin\Debug\client.exe
+D:\Lập trình mạng căn bản\remoteDesktopp\client\bin\Debug\client.pdb
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.Form1.resources
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.Properties.Resources.resources
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.exe
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.pdb
+D:\Lập trình mạng căn bản\remoteDesktopp\client\obj\Debug\client.khungchat_client.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\bin\Debug\client.exe.config
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\bin\Debug\client.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\bin\Debug\client.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.Form1.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.khungchat_client.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\điều khiển máy tính\client\obj\Debug\client.pdb
+D:\laptrinhmangcanban\điều khiển máy tính\client\bin\Debug\client.exe.config
+D:\laptrinhmangcanban\điều khiển máy tính\client\bin\Debug\client.exe
+D:\laptrinhmangcanban\điều khiển máy tính\client\bin\Debug\client.pdb
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.Form1.resources
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.khungchat_client.resources
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.Properties.Resources.resources
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.exe
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.pdb
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.signin.resources
+D:\laptrinhmangcanban\điều khiển máy tính\client\obj\Debug\client.signup.resources
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\client.exe.config
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\client.exe
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\client.pdb
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.Form1.resources
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.khungchat_client.resources
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.signin.resources
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.signup.resources
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.exe
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.pdb
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\snappy32.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\snappy64.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\libzstd.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\mongocrypt.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\DnsClient.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Bson.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\SharpCompress.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\System.Buffers.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\DnsClient.xml
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Bson.xml
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.xml
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\System.Buffers.xml
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\binhn\OneDrive\Desktop\dieukhienmaytinh\client\obj\Debug\client.csproj.CopyComplete
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\snappy32.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\snappy64.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\libzstd.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\mongocrypt.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\client.exe.config
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\client.exe
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\client.pdb
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\DnsClient.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Bson.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.Core.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\SharpCompress.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\System.Buffers.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\DnsClient.xml
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Bson.xml
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.xml
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\MongoDB.Driver.Core.xml
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\System.Buffers.xml
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.Form1.resources
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.khungchat_client.resources
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.Properties.Resources.resources
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.signin.resources
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.signup.resources
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.csproj.CopyComplete
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.exe
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\obj\Debug\client.pdb
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\FontAwesome.Sharp.dll
+D:\KHANG\DocumentForStudy\Network_Programming\Project\dieukhienmaytinh\client\bin\Debug\JTextBox.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\snappy32.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\snappy64.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\libzstd.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\mongocrypt.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\client.exe.config
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\client.exe
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\client.pdb
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\DnsClient.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\JTextBox.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Bson.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Driver.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\SharpCompress.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\System.Buffers.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\DnsClient.xml
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Bson.xml
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Driver.xml
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\System.Buffers.xml
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.Form1.resources
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.khungchat_client.resources
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.signin.resources
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.signup.resources
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.exe
+C:\Users\lemin\OneDrive\Máy tính\NetworkProgramming_Project\client\obj\Debug\client.pdb
